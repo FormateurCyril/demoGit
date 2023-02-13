@@ -1,0 +1,19 @@
+{
+  "name": "demogit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormateurCyril/demoGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FormateurCyril/demoGit/issues"
+  },
+  "homepage": "https://github.com/FormateurCyril/demoGit#readme"
+}

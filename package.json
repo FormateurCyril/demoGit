@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FormateurCyril/demoGit/issues"
   },
-  "homepage": "https://github.com/FormateurCyril/demoGit#readme"
+  "homepage": "https://github.com/FormateurCyril/demoGit#readme",
+  "dependencies": {
+    "sweetalert2": "^11.7.1"
+  }
 }
